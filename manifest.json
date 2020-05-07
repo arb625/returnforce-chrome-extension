@@ -1,0 +1,10 @@
+{
+	"name": "Returnforce Chrome Extension",
+	"version": "1.0",
+	"description": "Schedule of when our Ohana should return to work",
+    "content_scripts": [{
+    	"matches": ["https://salesforce.serraview.com/*"],
+    	"js": ["myscript.js"]
+    }],
+	"manifest_version": 2
+}

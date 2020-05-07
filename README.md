@@ -1,0 +1,1 @@
+Chrome extension that assigns seats to Salesforce Employees on Serraview
